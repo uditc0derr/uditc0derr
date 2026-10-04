@@ -18,11 +18,15 @@ I'm Udit. I'm a Full Stack Developer who likes building things that ship - dev t
 📫 How to reach me:
 
 `Website` - uditpandey.tech (https://www.uditpandey.tech/)
+
+
 `LinkedIn` - udit-pandey (https://www.linkedin.com/in/udit-pandey-58839a275)
 
 
-❤️ Check out my projects: Collex (https://github.com/uditc0derr/collex) · SecureBin (https://github.com/uditc0derr/SecureBin) · Mapify (https://github.com/uditc0derr/mapifyy-cli)
+❤️ Check out my projects: 
 
-<p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=uditc0derr&show_icons=true alt=Udit />
-</p>
+· Collex (https://github.com/uditc0derr/collex) 
+
+· SecureBin (https://github.com/uditc0derr/SecureBin) 
+
+· Mapify (https://github.com/uditc0derr/mapifyy-cli)
