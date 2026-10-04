@@ -4,15 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/uditc0derr">
-    <img src="https://cdn.simpleicons.org/github/181717" width="28" height="28" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/udit-pandey-58839a275">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.uditpandey.tech/">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="28" height="28" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
