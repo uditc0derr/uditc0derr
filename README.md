@@ -3,14 +3,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/uditc0derr" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Udit Pandey" height="20" width="20" />
+  <a href="https://github.com/uditc0derr">
+    <img src="https://cdn.simpleicons.org/github/181717" width="28" height="28" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/udit-pandey-58839a275" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Udit Pandey" height="20" width="20" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/udit-pandey-58839a275">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
   </a>
-  <a href="https://www.uditpandey.tech/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="Udit Pandey" height="20" width="20" />
+  &nbsp;&nbsp;
+  <a href="https://www.uditpandey.tech/">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="28" height="28" alt="Website" />
   </a>
 </p>
 
